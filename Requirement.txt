@@ -1,0 +1,38 @@
+Git : Git is a version control system for tracking changes in computer files and is used to help co-ordinate work among several people on a project.
+Git Repository : Git Repository refers to a place where all the Git file are stored. These file can either be stored on the local repository or on the remote repository.
+
+
+Few Git Commands and their Functions:
+ <1> Git config : Configure the username and email
+ <2> Git add    : Add one or more file to the staging area
+ <3> Git diff   : Views the changes made to the file
+ <4> Git init   : Initialize an empty repository
+ <5> Git Commit : Commit changes to head but not to remote repository.
+ 
+ 
+ How can Create Repository in Git ?.
+   -- "git init". This is command
+   
+    
+Purpose of branching in Git ?
+  -- The Purpose of branching in Git is that you can create your own branch and jump between those branches.
+  
+  
+ To delete a branch what is the command that is used ?
+    --To delete a branch use,the command "git branch -d[head]".
+   
+  
+  Advantantages Using Git :
+    <1> Faste release cycles.
+    <2> Easy team colloboration.
+    <3> Wide spread acceptence.
+    <4> Maintains the integrity of source code.
+    <5> Pull request.
+    
+    
+ Name of popular Git hosting:
+   <1> Git hub
+   <2> Git lab
+   <3> Git bucket
+   <4> Beanstalk
+   <5> Boddy
